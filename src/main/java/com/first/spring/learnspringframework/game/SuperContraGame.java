@@ -1,5 +1,6 @@
 package com.first.spring.learnspringframework.game;
 
+//@Component
 public class SuperContraGame implements Game {
 	
 	public void up() {
