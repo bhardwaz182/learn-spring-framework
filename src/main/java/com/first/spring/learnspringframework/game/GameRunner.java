@@ -1,9 +1,9 @@
 package com.first.spring.learnspringframework.game;
 
 public class GameRunner {
-	private SuperContraGame game;
+	private Game game;
 	
-	public GameRunner(SuperContraGame game) {
+	public GameRunner(Game game) {
 		this.game=game;
 	}
 	

@@ -1,6 +1,6 @@
 package com.first.spring.learnspringframework.game;
 
-public class MarioGame {
+public class MarioGame implements Game {
 	
 	public void up() {
 		System.out.println("up");
